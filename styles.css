@@ -112,3 +112,41 @@ button {
 	display: block;
 	margin: 0 auto 10px;
 }
+
+.quote {
+    background-color: #E5E7EB;
+    padding: 50px;
+    text-align: center;
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.cta {
+    display: flex;
+    justify-content: center;
+    background-color: #3882F6;
+    color: white;
+    padding: 30px;
+    margin: 50px;
+    border-radius: 10px;
+}
+
+.cta-box {
+    display: flex;
+    justify-content: space-between;
+    width: 60%;
+    align-items: center;
+}
+
+.cta-text h3 {
+    font-size: 24px;
+    font-weight: 900;
+}
+
+.footer {
+    background-color: #1F2937;
+    text-align: center;
+    padding: 20px;
+    color: white;
+}
