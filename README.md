@@ -2,6 +2,9 @@
 
 images credit:
 
+Sydney Troxell
+https://www.pexels.com/photo/sliced-pepperoni-pizza-on-white-ceramic-plate-708587/
+
 Muffin Creatives
 https://www.pexels.com/photo/close-up-photo-of-person-holding-pizza-1653877/
 

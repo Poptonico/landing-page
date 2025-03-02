@@ -25,3 +25,32 @@ body {
     margin-left: 20px;
     font-size: 18px;
 }
+
+.hero {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #1F2937;
+    padding: 100px 50px;
+    color: #F9FAF8;
+}
+
+.hero-text h1 {
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.hero-text p {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+button {
+    background-color: #3882F6;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 18px;
+    border-radius: 5px;
+    cursor: pointer;
+}
