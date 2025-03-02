@@ -54,3 +54,37 @@ button {
     border-radius: 5px;
     cursor: pointer;
 }
+
+.info {
+    text-align: center;
+    padding: 50px;
+}
+
+.info h2 {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+}
+
+.info-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.info-box {
+    width: 150px;
+    text-align: center;
+    border: 2px solid #3882F6;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.info-box img {
+	width: 120px;
+	height: 120px;
+	object-fit: cover;
+	display: block;
+	margin: 0 auto 10px;
+}
